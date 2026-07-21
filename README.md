@@ -1,6 +1,6 @@
 # 🐍 Snake Lysifix App
 
-¡Bienvenido a *Snake Lysifix App*! Este es un clásico juego de la serpiente desarrollado de forma nativa para dispositivos Android. Este proyecto forma parte de mi formación académica y práctica autónoma en la ingeniería de software.
+¡Bienvenido a *Snake Lysifix App*! Este es un clásico juego de la serpiente desarrollado de forma nativa para dispositivos Android. Este proyecto forma parte de mi práctica autónoma en la ingeniería de software.
 
 ---
 
@@ -14,7 +14,7 @@
 ## 🛠️ Tecnologías y Herramientas Utilizadas
 * *Lenguaje:* [Kotlin](https://kotlinlang.org) (100% Nativo)
 * *Entorno de Desarrollo:* [Android Studio](https://android.com)
-* *Maquetación:* Jetpack Compose / XML (según tu diseño)
+* *Maquetación:* Jetpack Compose / XML
 
 ---
 
