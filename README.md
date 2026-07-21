@@ -1,3 +1,5 @@
+<img width="280" alt="WhatsApp Image 2026-07-21 at 5 45 48 PM" src="https://github.com/user-attachments/assets/14c6c814-c5bd-4af5-8b05-4c1af135593c" />
+
 # 🐍 Snake Lysifix App
 
 ¡Bienvenido a *Snake Lysifix App*! Este es un clásico juego de la serpiente desarrollado de forma nativa para dispositivos Android. Este proyecto forma parte de mi práctica autónoma en la ingeniería de software.
