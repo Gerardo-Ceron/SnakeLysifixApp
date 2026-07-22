@@ -23,3 +23,11 @@
 ## 👨‍💻 Autor
 * *Gerardo Cerón* - Estudiante de Ingeniería en Desarrollo de Software en la UVEG.
 * GitHub: [@Gerardo-Ceron](https://github.com)
+* # 🪖 Calculadora Lysifix App
+© 2026 Gerardo Cerón. Todos los derechos reservados.
+
+### 🛡️ Aviso de Propiedad Intelectual
+Este repositorio contiene código fuente de mi propiedad exclusiva y forma parte de mi portafolio personal de desarrollo. 
+
+* *No se otorga permiso* para copiar, reproducir, modificar, distribuir ni sublicenciar este código de forma pública o comercial.
+* Queda estrictamente prohibida su publicación en tiendas de aplicaciones (como Google Play Store) o cualquier plataforma externa sin mi autorización expresa por escrito.
